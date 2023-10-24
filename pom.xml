@@ -12,10 +12,9 @@
         <maven.compiler.target>20</maven.compiler.target>
         <maven.compiler.source>20</maven.compiler.source>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <exec.mainClass>dad.imc.Main</exec.mainClass>
+        <exec.mainClass>imc.Main</exec.mainClass>
     </properties>
     <dependencies>
-
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
